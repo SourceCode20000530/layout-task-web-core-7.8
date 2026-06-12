@@ -177,6 +177,10 @@ section {
   color: #1b1c21;
   line-height: 24px;
   letter-spacing: -0.2px;
+  transition: 0.2s;
+}
+.menu__lang li a:hover {
+  color: #ff3e79;
 }
 .menu__lang li:first-child a {
   color: #7e7e82;
